@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316074285328",
+    "project_id": "diskominfo-2252e",
+    "storage_bucket": "diskominfo-2252e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316074285328:android:54a2c6f311f2de345dad95",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlSp0O0WYhSAGz6H9k79HbR0iI-jRJVPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316074285328:android:355f030123b6f09f5dad95",
+        "android_client_info": {
+          "package_name": "com.example.diskominfo_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlSp0O0WYhSAGz6H9k79HbR0iI-jRJVPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
