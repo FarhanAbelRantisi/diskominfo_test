@@ -45,7 +45,6 @@ class LaporanService {
           'userId',
           isEqualTo: user?.uid,
         )
-        // ← hapus .orderBy() di sini
         .snapshots();
   }
 }
