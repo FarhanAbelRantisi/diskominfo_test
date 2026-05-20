@@ -13,12 +13,11 @@ class RiwayatScreen extends StatefulWidget {
 class _RiwayatScreenState extends State<RiwayatScreen> {
   final LaporanService _laporanService = LaporanService();
   
-  // 1. Deklarasikan variabel stream di sini
   late Stream<QuerySnapshot> _laporanStream;
 
   @override
   void initState() {
-    super.initState(); // Cukup panggil ini saja
+    super.initState();
     
     _laporanStream = _laporanService.getLaporanUser();
   }
